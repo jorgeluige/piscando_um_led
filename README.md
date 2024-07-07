@@ -1,6 +1,6 @@
 # piscando_um_led
 
-A constante LED_BUILTIN aponta para o pino dogital 13 que por padrão vem ligada ao led físico do arduino UNO. 
+A constante LED_BUILTIN aponta para o pino digital 13 que por padrão vem ligada ao led físico do arduino UNO. 
 Por isso com esse Sketch podemos observar o led da protoboard piscar junto com o led que vem na placa do arduino. 
 Uma curiosidade: os arduinos UNOS vem de fábrica carregados com esse Sketch para você apenas energizá-los e saber que estão ok.
 
