@@ -26,7 +26,7 @@ Como os demais kits da RoboCore, este kit é fabricado no Brasil e possui manual
 - https://www.robocore.net/
 
 
-´´´
+```c
 void setup() {
   // Inicializar o pino digital LED_BUILTIN como uma saída.
   pinMode(LED_BUILTIN, OUTPUT);
@@ -39,4 +39,4 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // Desliga o LED
   delay(1000);                       // espera um segundo
 }
-´´´
+```
