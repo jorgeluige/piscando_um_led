@@ -27,7 +27,9 @@ Como os demais kits da RoboCore, este kit é fabricado no Brasil e possui manual
 
 
 
-
+Este sketch usa a constante LED_BUILTIN que equivale ao pino digital 13 do arduino, esse pino 13 também vem ligado ao LED on-board da placa Arduino UNO, isso na maioria dos modelos de placa.  
+A função digitalWrite é usada para ligar e desligar o LED. 
+A função delay é usada para esperar um segundo. 
 
 ```c
 void setup() {
@@ -43,3 +45,11 @@ void loop() {
   delay(1000);                       // espera um segundo
 }
 ```
+
+
+# Referências
+https://www.arduino.cc/reference/pt/language/functions/time/delay/
+https://www.arduino.cc/reference/en/language/variables/constants/ledbuiltin/
+https://www.arduino.cc/reference/pt/language/functions/digital-io/digitalwrite/
+
+
