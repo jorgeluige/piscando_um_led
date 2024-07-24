@@ -12,6 +12,8 @@ Uma curiosidade: os arduinos UNOS vem de fábrica carregados com esse Sketch par
 
 
 
+
+
 - https://www.robocore.net/
   
 ![image](https://github.com/user-attachments/assets/9afec2a1-a0c4-4b33-a741-73dfc2f319fc)
