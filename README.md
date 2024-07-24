@@ -47,9 +47,13 @@ void loop() {
 ```
 
 
+
 # Referências
 https://www.arduino.cc/reference/pt/language/functions/time/delay/
+
 https://www.arduino.cc/reference/en/language/variables/constants/ledbuiltin/
+
 https://www.arduino.cc/reference/pt/language/functions/digital-io/digitalwrite/
+
 
 
